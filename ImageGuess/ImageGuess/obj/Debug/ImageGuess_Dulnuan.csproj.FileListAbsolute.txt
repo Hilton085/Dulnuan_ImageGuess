@@ -1,0 +1,15 @@
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\bin\Debug\ImageGuess_Dulnuan.exe.config
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\bin\Debug\ImageGuess_Dulnuan.exe
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\bin\Debug\ImageGuess_Dulnuan.pdb
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.csproj.AssemblyReference.cache
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.Loading.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.Properties.Resources.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.csproj.GenerateResource.cache
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.csproj.CoreCompileInputs.cache
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.exe
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.pdb
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.MainMenu.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.Animal.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.Fruit.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.Tree.resources
+E:\Sharpu\ImageGuess_Dulnuan\ImageGuess_Dulnuan\obj\Debug\ImageGuess_Dulnuan.finalScore.resources
